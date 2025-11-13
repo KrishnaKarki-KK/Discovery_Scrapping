@@ -51,7 +51,6 @@ Return only the category name.
         messages=[{"role": "user", "content": prompt}],
         temperature=0.2,
     )
-    print(content[:2000])
     return resp.choices[0].message.content.strip()
 
 
