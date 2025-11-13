@@ -2,7 +2,7 @@
 
 ### virtual environment
 - **python3.13 -m venv .venv**
-- **source env1/bin/activate**
+- **source .venv/bin/activate**
 
 ### install requirements
 **pip install -r requirements.txt**
