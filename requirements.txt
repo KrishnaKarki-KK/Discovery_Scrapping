@@ -1,0 +1,4 @@
+openai
+playwright
+dotenv
+crawl4ai
